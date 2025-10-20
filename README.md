@@ -331,17 +331,6 @@ ping 192.168.80.102
 # Verificar servicios
 netstat -an | findstr 11000
 ```
-
-👥 Autores
-
-· David Esteban Diaz Castro
-· Ferney Arturo Amaya Gómez
-· Jhonny Alejandro Mejia
-
-Universidad Santo Tomás
-Facultad de Ingeniería
-Octubre 5, 2025
-
 📄 Licencia
 
 Este proyecto es parte del trabajo académico de la Universidad Santo Tomás y se comparte con fines educativos.
